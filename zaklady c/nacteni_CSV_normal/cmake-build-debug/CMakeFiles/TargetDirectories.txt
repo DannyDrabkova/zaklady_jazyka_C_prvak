@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/nacteni_CSV_normal/cmake-build-debug/CMakeFiles/nacteni_CSV_normal.dir
+D:/PROGRAMOVANI/zaklady c/nacteni_CSV_normal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/nacteni_CSV_normal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

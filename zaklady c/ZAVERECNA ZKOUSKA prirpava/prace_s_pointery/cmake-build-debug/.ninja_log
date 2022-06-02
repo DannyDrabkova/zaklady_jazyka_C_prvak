@@ -1,0 +1,21 @@
+# ninja log v5
+0	121	6756058646888418	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+124	261	6756058648257948	prace_s_pointery.exe	8f513ff247fb772c
+4	164	6756070463352263	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+164	382	6756070465472285	prace_s_pointery.exe	8f513ff247fb772c
+2	151	6756071315647084	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+151	278	6756071316917616	prace_s_pointery.exe	8f513ff247fb772c
+3	109	6756071492451392	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+110	277	6756071494123298	prace_s_pointery.exe	8f513ff247fb772c
+3	126	6756072195038023	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+126	257	6756072196348026	prace_s_pointery.exe	8f513ff247fb772c
+3	125	6756072276502369	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+126	268	6756072277911996	prace_s_pointery.exe	8f513ff247fb772c
+2	128	6756074296210669	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+128	267	6756074297580957	prace_s_pointery.exe	8f513ff247fb772c
+2	129	6756075005985785	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+129	259	6756075007286631	prace_s_pointery.exe	8f513ff247fb772c
+4	118	6756076191572901	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+118	250	6756076192872919	prace_s_pointery.exe	8f513ff247fb772c
+2	108	6756076480878358	CMakeFiles/prace_s_pointery.dir/main.c.obj	6b89a8ad1f5cdcee
+109	231	6756076482078718	prace_s_pointery.exe	8f513ff247fb772c

@@ -1,0 +1,22 @@
+# ninja log v5
+0	364	6710593342239447	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+400	605	6710593344639352	test_funkce_printtext.exe	8c59375bcf40bd05
+2	125	6710593654885607	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+126	314	6710593656715569	test_funkce_printtext.exe	8c59375bcf40bd05
+2	107	6710594696422573	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+108	231	6710594697622587	test_funkce_printtext.exe	8c59375bcf40bd05
+2	99	6710595129961780	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+100	240	6710595131312332	test_funkce_printtext.exe	8c59375bcf40bd05
+3	132	6710595217083894	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+132	432	6710595220013904	test_funkce_printtext.exe	8c59375bcf40bd05
+2	299	6710597183082588	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+0	139	6710597615004725	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+139	306	6710597616617233	test_funkce_printtext.exe	8c59375bcf40bd05
+2	132	6710598252644609	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+132	316	6710598254424642	test_funkce_printtext.exe	8c59375bcf40bd05
+2	140	6710598503476987	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+141	317	6710598505187015	test_funkce_printtext.exe	8c59375bcf40bd05
+2	119	6710598916738244	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+120	294	6710598918430352	test_funkce_printtext.exe	8c59375bcf40bd05
+3	189	6710599215222884	CMakeFiles/test_funkce_printtext.dir/main.c.obj	589bbecdc3911f1d
+190	435	6710599217622857	test_funkce_printtext.exe	8c59375bcf40bd05

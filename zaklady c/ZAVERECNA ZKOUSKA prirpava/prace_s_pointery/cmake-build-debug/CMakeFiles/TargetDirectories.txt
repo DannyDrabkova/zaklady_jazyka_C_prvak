@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/ZAVERECNA ZKOUSKA prirpava/prace_s_pointery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/PROGRAMOVANI/zaklady c/ZAVERECNA ZKOUSKA prirpava/prace_s_pointery/cmake-build-debug/CMakeFiles/prace_s_pointery.dir
+D:/PROGRAMOVANI/zaklady c/ZAVERECNA ZKOUSKA prirpava/prace_s_pointery/cmake-build-debug/CMakeFiles/edit_cache.dir

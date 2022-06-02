@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/test_opak/cmake-build-debug/CMakeFiles/test_opak.dir
+D:/PROGRAMOVANI/zaklady c/test_opak/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/test_opak/cmake-build-debug/CMakeFiles/rebuild_cache.dir

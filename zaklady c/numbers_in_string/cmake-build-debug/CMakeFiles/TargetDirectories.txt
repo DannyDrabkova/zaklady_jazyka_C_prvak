@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/numbers_in_string/cmake-build-debug/CMakeFiles/numbers_in_string.dir
+D:/PROGRAMOVANI/zaklady c/numbers_in_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/numbers_in_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

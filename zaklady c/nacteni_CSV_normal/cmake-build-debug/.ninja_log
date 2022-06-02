@@ -1,0 +1,15 @@
+# ninja log v5
+0	1644	6709783745954870	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+1646	2050	6709783749804896	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+3	127	6709784175625389	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+128	297	6709784177285394	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+2	1681	6709785000924045	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+1682	1873	6709785002824027	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+3	161	6709785419139408	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+161	397	6709785421469403	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+3	130	6709785501785840	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+131	295	6709785503415832	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+4	163	6709785972315684	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+164	344	6709785974105686	nacteni_CSV_normal.exe	3b318ad85a2ea7f3
+2	160	6709786131748771	CMakeFiles/nacteni_CSV_normal.dir/main.c.obj	303b8e438e1275ff
+160	337	6709786133498760	nacteni_CSV_normal.exe	3b318ad85a2ea7f3

@@ -1,0 +1,5 @@
+# ninja log v5
+1	302	6703650084996927	CMakeFiles/numbers_in_string.dir/main.c.obj	de1b60b5ab871493
+303	536	6703650086901838	numbers_in_string.exe	bb9ace2c0cf30f01
+2	88	6703650169078395	CMakeFiles/numbers_in_string.dir/main.c.obj	de1b60b5ab871493
+88	173	6703650169892834	numbers_in_string.exe	bb9ace2c0cf30f01

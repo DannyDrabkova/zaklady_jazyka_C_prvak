@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/pct_znaku_c/cmake-build-debug/CMakeFiles/pct_znaku_c.dir
+D:/PROGRAMOVANI/zaklady c/pct_znaku_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/pct_znaku_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+# ninja log v5
+0	141	6710601863088164	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+143	326	6710601864878470	sort_structures.exe	d3162d57fc4bff10
+4	180	6710602025462354	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+180	524	6710602028854728	sort_structures.exe	d3162d57fc4bff10
+2	121	6710602210376195	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+121	321	6710602212316216	sort_structures.exe	d3162d57fc4bff10
+2	143	6710603651389836	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+143	328	6710603653169831	sort_structures.exe	d3162d57fc4bff10
+2	99	6710603883456683	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+99	239	6710603884816318	sort_structures.exe	d3162d57fc4bff10
+2	292	6710605573009256	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+0	109	6710605757867488	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+109	259	6710605759327451	sort_structures.exe	d3162d57fc4bff10
+3	171	6710606065710986	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+171	338	6710606067323038	sort_structures.exe	d3162d57fc4bff10
+3	140	6710606235445368	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+140	335	6710606237339383	sort_structures.exe	d3162d57fc4bff10
+2	109	6710606323455875	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+109	260	6710606324905607	sort_structures.exe	d3162d57fc4bff10
+2	133	6710606523898670	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+134	323	6710606525738956	sort_structures.exe	d3162d57fc4bff10
+2	123	6710606607449081	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+123	295	6710606609099079	sort_structures.exe	d3162d57fc4bff10
+2	153	6710606716270584	CMakeFiles/sort_structures.dir/main.c.obj	1dad230ea52fafc0
+153	349	6710606718052511	sort_structures.exe	d3162d57fc4bff10

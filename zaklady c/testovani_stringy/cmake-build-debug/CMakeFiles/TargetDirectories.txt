@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/testovani_stringy/cmake-build-debug/CMakeFiles/testovani_stringy.dir
+D:/PROGRAMOVANI/zaklady c/testovani_stringy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/testovani_stringy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/PROGRAMOVANI/zaklady c/pocet_znaku/cmake-build-debug/CMakeFiles/pocet_znaku.dir
+D:/PROGRAMOVANI/zaklady c/pocet_znaku/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOVANI/zaklady c/pocet_znaku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

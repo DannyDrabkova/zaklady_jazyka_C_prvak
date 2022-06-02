@@ -1,0 +1,21 @@
+# ninja log v5
+1	265	6708877844162591	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+267	892	6708877850356251	nacteni_souboru.exe	bf10064b3330b745
+4	257	6708879012214219	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+257	804	6708879017351466	nacteni_souboru.exe	bf10064b3330b745
+5	256	6708879368799113	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+257	540	6708879371621683	nacteni_souboru.exe	bf10064b3330b745
+6	594	6708879848014861	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+595	1306	6708879855458837	nacteni_souboru.exe	bf10064b3330b745
+9	1895	6708883000347045	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+1895	3287	6708883011477028	nacteni_souboru.exe	bf10064b3330b745
+6	1078	6708883200097049	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+1078	1717	6708883206057030	nacteni_souboru.exe	bf10064b3330b745
+7	1765	6708883917083789	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+1766	2540	6708883924993761	nacteni_souboru.exe	bf10064b3330b745
+5	329	6708884008153804	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+330	707	6708884011673792	nacteni_souboru.exe	bf10064b3330b745
+4	257	6708884090330438	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+258	632	6708884093670367	nacteni_souboru.exe	bf10064b3330b745
+5	382	6708884251470381	CMakeFiles/nacteni_souboru.dir/main.c.obj	87c46b695bae4d1d
+383	819	6708884255630353	nacteni_souboru.exe	bf10064b3330b745
